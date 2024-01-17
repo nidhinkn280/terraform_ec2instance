@@ -1,0 +1,3 @@
+[submodule "aws-syndicate"]
+	path = aws-syndicate
+	url = https://github.com/nidhinkn280/terraform_ec2instance.git
